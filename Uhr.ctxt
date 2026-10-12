@@ -1,0 +1,15 @@
+#BlueJ class context
+#Mon Oct 12 17:15:07 CEST 2026
+comment0.target=Uhr
+comment1.target=java.lang.String getMarke()
+comment2.target=int getDurchmesser()
+comment3.target=boolean getDigital()
+comment4.params=neuMarke
+comment4.target=void setMarke(java.lang.String)
+comment5.params=neuDurchmesser
+comment5.target=void setDurchmesser(int)
+comment6.params=neuDigital
+comment6.target=void setDigital(boolean)
+comment7.params=neuMarke neuDurchmesser neuDigital
+comment7.target=Uhr(java.lang.String, int, boolean)
+numComments=8
